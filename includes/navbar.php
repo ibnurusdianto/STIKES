@@ -10,9 +10,9 @@ $current_page = basename($_SERVER['PHP_SELF']);
                 <a href="tel:+62211234567" class="hover:text-brand-teal transition">📞 (021) 1234-5678</a>
             </div>
             <div class="flex gap-4 font-medium">
-                <a href="#" class="hover:text-brand-teal transition">SIAKAD</a>
-                <a href="#" class="hover:text-brand-teal transition">Repository</a>
-                <a href="#" class="hover:text-brand-teal transition">E-Journal</a>
+                <a href="https://stikesmrh.siakadcloud.com/gate/login" target="_blank" class="hover:text-brand-teal transition">SIAKAD</a>
+                <a href="https://repo.mrhj.ac.id/" target="_blank" class="hover:text-brand-teal transition">Repository</a>
+                <a href="https://e-journal.mrhj.ac.id/Jkk" target="_blank" class="hover:text-brand-teal transition">E-Journal</a>
             </div>
         </div>
     </div>
